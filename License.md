@@ -1,6 +1,6 @@
 License 
 
-Copyright (c) 2024 CM2001
+Copyright (c) 2024 CM2911
 
 permission is hereby granted free of charge,to any person obtaining a copy of this software,to deal 
 in the software without any restriction including without limitation the right to copy,use,modify,publish,distrubute,and/or sell copies of the software
